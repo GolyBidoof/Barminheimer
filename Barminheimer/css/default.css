@@ -1,0 +1,20 @@
+﻿body {
+    /* Uncomment this to enable scrolling and zooming
+  touch-action: manipulation;
+  */
+    font-family: 'Segoe UI', 'Segoe MDL2 Assets', 'Segoe UI Symbol', sans-serif;
+    font-weight: bold;
+}
+
+.topBarItem {
+    padding: 5px;
+}
+
+.topBar {
+    height: 40px;
+    width: auto;
+    background-color: mediumpurple;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
